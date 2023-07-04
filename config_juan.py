@@ -1,3 +1,8 @@
 MAYORIA_EDAD = 18
 ALTURA_MINIMA =150
 LETRA_PROHIBIDA = 'a'
+
+print("Hello")
+
+
+
